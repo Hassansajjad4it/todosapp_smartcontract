@@ -1,2 +1,2 @@
 # todosapp_smartcontract
-- Smart contract docs
+-Todos App Smart contract docs
